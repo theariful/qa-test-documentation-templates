@@ -1,4 +1,4 @@
-# Requirement Traceability Matrix — <Release>
+# Requirement Traceability Matrix — `<Release>`
 
 Maps every requirement to the test cases that cover it and the defects those cases found. Used at exit to prove coverage and to spot requirements with no tests behind them.
 

@@ -2,8 +2,8 @@
 
 | Field | Value |
 | :--- | :--- |
-| **Bug ID** | BUG-<PROJECT>-<NNN> |
-| **Title** | <What breaks> when <action> on <screen> |
+| **Bug ID** | `BUG-<PROJECT>-<NNN>` |
+| **Title** | `<What breaks>` when `<action>` on `<screen>` |
 | **Reported by** | |
 | **Date reported** | |
 | **Module / Feature** | |

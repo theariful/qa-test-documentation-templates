@@ -1,4 +1,4 @@
-# Test Cases — <Module>
+# Test Cases — `<Module>`
 
 | Field | Value |
 | :--- | :--- |

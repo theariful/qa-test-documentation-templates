@@ -1,8 +1,8 @@
-# Test Plan — <Product / Release>
+# Test Plan — `<Product / Release>`
 
 | Field | Value |
 | :--- | :--- |
-| Document ID | TP-<PROJECT>-<NNN> |
+| Document ID | `TP-<PROJECT>-<NNN>` |
 | Release / Sprint | |
 | Author | |
 | Reviewers | |
